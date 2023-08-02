@@ -1,7 +1,7 @@
 # CSY2061 AS1-E-commerce Shop
 <img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/blob/main/TCA1%20Images/Picture1.png?raw=true"  width="350px" align = "left"> 
 <img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/blob/main/TCA1%20Images/Picture2.png?raw=true"  width="350px"> 
-
+<br></br>
 
 ## Skills Used
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
