@@ -1,6 +1,6 @@
 # CSY2061 AS1-E-commerce Shop
-<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/assets/72047699/58d7d15b-ff3f-42ba-9c82-5b97a398c553"  width="350px"> 
-<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/assets/72047699/2c441e53-93e7-4c8c-9500-9a8b1453da60"  width="350px"> 
+<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/blob/main/TCA1%20Images/Picture1.png?raw=true"  width="350px" align = "left"> 
+<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/blob/main/TCA1%20Images/Picture2.png?raw=true"  width="350px"> 
 
 
 ## Skills Used
@@ -65,15 +65,18 @@ Implement software solutions to the following Android Studio Tasks.
   -	Initial Splash Screen (Demonstrates a user of Handlers) 
   -	List View with Custom Adapters (Demonstrates a deeper knowledge of how to use different widgets and join layouts)
   -	Option for the user to add a random gift at the checkout that is displayed in the final order. (Demonstrates a knowledge of randoms and how to assign a random to arrays).
-  -	Push notifications on order completion instead of Toasts
+  -	Push notifications on order completion instead of Toasts.
 
 ## Other Screenshots
 
+### Check Out 
+<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/blob/main/TCA1%20Images/Picture3.png?raw=true"  width="300px"> 
+
 ### Email Templates
-<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/assets/72047699/4bd026d8-50e7-4ad5-9710-c4b8e52e7221"  width="300px"> 
+<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/blob/main/TCA1%20Images/Picture4.png?raw=true"  width="300px"> 
 
 ### Admin Creating Products 
-<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/assets/72047699/487d24f0-659b-4a94-ae21-eb827931c908"  width="300px"> 
+<img src="https://github.com/emilyf99UniversityProjects/CSY2061-AS1-Ecommerce-Shop/blob/main/TCA1%20Images/Picture5.png?raw=true"  width="300px"> 
 
 
 
